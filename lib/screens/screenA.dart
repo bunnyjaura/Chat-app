@@ -65,7 +65,7 @@ class _ScreenAState extends State<ScreenA> {
                   onTap: openContainer,
                   child: CircleAvatar(
                     radius: 34,
-                    backgroundColor: Styles().colorBack,
+                    backgroundColor: Colors.black,
                     child: CircleAvatar(
                       radius: 32,
                       backgroundColor: Colors.white,
